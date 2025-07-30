@@ -6,27 +6,43 @@
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cngh10&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <blockquote style="background: linear-gradient(135deg, #0066cc, #0099ff); color: white; padding: 20px; border-radius: 10px; border-left: 5px solid #ffffff; margin: 20px 0;">
-    <em>Information Science graduate skilled in Python, SQL, and AI/ML, with expertise in AI-driven solutions, microservices, and data pipeline optimization, building scalable systems for impactful business outcomes.</em>
-  </blockquote>
-</div>
-
 ### 🎯 What I Do
 
 <div style="background: linear-gradient(135deg, #f0f8ff, #e6f3ff); padding: 20px; border-radius: 10px; border-left: 5px solid #0066cc;">
-- 🔭 **Currently Working On**: Data Science and Machine Learning projects
-- 🤝 **Looking For**: Data Scientist, ML Engineer, and AI Developer roles  
-- 🌱 **Currently Learning**: Advanced Machine Learning and Deep Learning  
-- 💬 **Ask Me About**: Python, Data Science, Machine Learning, SQL  
-- ⚡ **Fun Fact**: I love turning data into insights!  
-- 💻 **All Projects**: Available on GitHub  
-- 📫 **Contact**: itssinghchandan10@gmail.com  
-- 🌐 **Portfolio**: [chandan-mahato-portfolio-website.vercel.app](https://chandan-mahato-portfolio-website.vercel.app/)
+<div style="display: flex; flex-direction: column; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 10px;">
+  <span style="font-size: 1.2em;">🔭</span>
+  <div><strong>Currently Working On:</strong> Data Science and Machine Learning projects</div>
+</div>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <span style="font-size: 1.2em;">🤝</span>
+  <div><strong>Looking For:</strong> Data Scientist, ML Engineer, and AI Developer roles</div>
+</div>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <span style="font-size: 1.2em;">🌱</span>
+  <div><strong>Currently Learning:</strong> Advanced Machine Learning and Deep Learning</div>
+</div>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <span style="font-size: 1.2em;">💬</span>
+  <div><strong>Ask Me About:</strong> Python, Data Science, Machine Learning, SQL</div>
+</div>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <span style="font-size: 1.2em;">⚡</span>
+  <div><strong>Fun Fact:</strong> I love turning data into insights!</div>
+</div>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <span style="font-size: 1.2em;">💻</span>
+  <div><strong>All Projects:</strong> Available on GitHub</div>
+</div>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <span style="font-size: 1.2em;">📫</span>
+  <div><strong>Contact:</strong> itssinghchandan10@gmail.com</div>
+</div>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <span style="font-size: 1.2em;">🌐</span>
+  <div><strong>Portfolio:</strong> <a href="https://chandan-mahato-portfolio-website.vercel.app/" style="color: #0066cc;">chandan-mahato-portfolio-website.vercel.app</a></div>
+</div>
+</div>
 </div>  
 
 ## 🌐 Connect With Me
@@ -166,11 +182,21 @@
 
 ---
 
+<div align="center">
+  <blockquote style="background: linear-gradient(135deg, #0066cc, #0099ff); color: white; padding: 20px; border-radius: 10px; border-left: 5px solid #ffffff; margin: 20px 0;">
+    <em>Information Science graduate skilled in Python, SQL, and AI/ML, with expertise in AI-driven solutions, microservices, and data pipeline optimization, building scalable systems for impactful business outcomes.</em>
+  </blockquote>
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cngh10&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cngh10&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cngh10&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
