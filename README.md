@@ -1,8 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 3.5rem; color: #0066cc; margin-bottom: 20px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
-    🚀 CHANDAN MAHATO 🚀
-  </h1>
-  <img src="https://readme-typing-svg.vercel.app/?color=0066cc&size=30&center=true&vCenter=true&width=1000&lines=DATA+ENTHUSIAST+%7C+AI+%26+ML+DEVELOPER;PASSIONATE+ABOUT+SOLVING+REAL-WORLD+PROBLEMS;TURNING+DATA+INTO+INSIGHTS+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?color=0066cc&size=40&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Chandan+Mahato;DATA+ENTHUSIAST+%7C+AI+%26+ML+DEVELOPER;PASSIONATE+ABOUT+SOLVING+REAL-WORLD+PROBLEMS;TURNING+DATA+INTO+INSIGHTS+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,6 +17,7 @@
 </div>
 
 ### 🎯 What I Do
+
 <div style="background: linear-gradient(135deg, #f0f8ff, #e6f3ff); padding: 20px; border-radius: 10px; border-left: 5px solid #0066cc;">
 - 🔭 **Currently Working On**: Data Science and Machine Learning projects
 - 🤝 **Looking For**: Data Scientist, ML Engineer, and AI Developer roles  
