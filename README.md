@@ -62,9 +62,7 @@ Hi 👋, I'm Chandan Mahato
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Cngh10&theme=radical)
 
-# 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Cngh10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📈 Recent Projects
 
