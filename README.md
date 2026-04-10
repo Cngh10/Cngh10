@@ -91,42 +91,18 @@
 ## 👋 About Me
 ### 🎯 What I Do
 
-<div style="background: linear-gradient(135deg, #f0f8ff, #e6f3ff); padding: 20px; border-radius: 10px; border-left: 5px solid #0066cc;">
-<div style="display: flex; flex-direction: column; gap: 10px;">
-<div style="display: flex; align-items: center; gap: 10px;">
-  <span style="font-size: 1.2em;">🔭</span>
-  <div><strong>Currently Working On:</strong> Data Science and Machine Learning projects</div>
+<div align="center">
+
+<table>
+<tr><td>🔭</td><td><b>Currently Working On:</b> Data Science & ML projects</td></tr>
+<tr><td>🤝</td><td><b>Looking For:</b> Data Scientist / ML Engineer roles</td></tr>
+<tr><td>🌱</td><td><b>Learning:</b> Deep Learning & MLOps</td></tr>
+<tr><td>💬</td><td><b>Ask Me:</b> Python, ML, SQL</td></tr>
+<tr><td>⚡</td><td><b>Fun Fact:</b> Turning data into insights 🚀</td></tr>
+<tr><td>📫</td><td><b>Email:</b> itssinghchandan10@gmail.com</td></tr>
+</table>
+
 </div>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <span style="font-size: 1.2em;">🤝</span>
-  <div><strong>Looking For:</strong> Data Scientist, ML Engineer, and AI Developer roles</div>
-</div>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <span style="font-size: 1.2em;">🌱</span>
-  <div><strong>Currently Learning:</strong> Advanced Machine Learning and Deep Learning</div>
-</div>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <span style="font-size: 1.2em;">💬</span>
-  <div><strong>Ask Me About:</strong> Python, Data Science, Machine Learning, SQL</div>
-</div>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <span style="font-size: 1.2em;">⚡</span>
-  <div><strong>Fun Fact:</strong> I love turning data into insights!</div>
-</div>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <span style="font-size: 1.2em;">💻</span>
-  <div><strong>All Projects:</strong> Available on GitHub</div>
-</div>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <span style="font-size: 1.2em;">📫</span>
-  <div><strong>Contact:</strong> itssinghchandan10@gmail.com</div>
-</div>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <span style="font-size: 1.2em;">🌐</span>
-  <div><strong>Portfolio:</strong> <a href="https://chandan-mahato-portfolio-website.vercel.app/" style="color: #0066cc;">chandan-mahato-portfolio-website.vercel.app</a></div>
-</div>
-</div>
-</div>  
 
 ---
 
