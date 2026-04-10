@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?color=0066cc&size=40&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Chandan+Mahato;DATA+ENTHUSIAST+%7C+AI+%26+ML+DEVELOPER;PASSIONATE+ABOUT+SOLVING+REAL-WORLD+PROBLEMS;TURNING+DATA+INTO+INSIGHTS+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
@@ -229,4 +229,131 @@
   <img src="https://komarev.com/ghpvc/?username=Cngh10&style=flat-square&color=0066cc" alt="Profile Views"/>
   <br/>
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-Let's%20connect!-0066cc?style=for-the-badge&logo=github" alt="Thanks for visiting!"/>
-</div> 
+</div>  -->
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?color=06b6d4&size=40&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Chandan+Mahato;DATA+ENTHUSIAST+%7C+AI+%26+ML+DEVELOPER;BUILDING+IMPACTFUL+DATA+SOLUTIONS" alt="Typing SVG" />
+</div>
+
+<div align="center" style="margin-top: 24px;">
+  <img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2Fchandan-profile.jpeg&w=640&q=75" width="220" style="border-radius: 50%; border: 4px solid #06b6d4; box-shadow: 0 18px 50px rgba(0,0,0,0.25);" alt="Chandan Mahato" />
+</div>
+
+<div align="center" style="margin-top: 18px;">
+  <h1>Chandan Mahato</h1>
+  <p style="color:#94a3b8; font-size: 1.05rem; max-width: 700px;">Information Science graduate with a passion for creating intelligent AI/ML systems, analytic dashboards, and business-ready data solutions.</p>
+</div>
+
+<div align="center" style="margin: 24px 0;">
+  <a href="https://github.com/Cngh10"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/chandan-mahato-6a484b279"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:itssinghchandan10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://chandan-mahato-portfolio-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</div>
+
+<table width="100%" cellpadding="12" cellspacing="0" style="margin-bottom: 30px;">
+  <tr>
+    <td align="center" style="background: #0f172a; border-radius: 18px; border: 1px solid rgba(148,163,184,0.12);">
+      <h3 style="margin:0; color:#38bdf8;">0-1 Years</h3>
+      <p style="margin:4px 0 0; color:#94a3b8;">AI/ML & Data Analytics</p>
+    </td>
+    <td align="center" style="background: #0f172a; border-radius: 18px; border: 1px solid rgba(148,163,184,0.12);">
+      <h3 style="margin:0; color:#38bdf8;">10+ Projects</h3>
+      <p style="margin:4px 0 0; color:#94a3b8;">Complete AI / data solutions</p>
+    </td>
+    <td align="center" style="background: #0f172a; border-radius: 18px; border: 1px solid rgba(148,163,184,0.12);">
+      <h3 style="margin:0; color:#38bdf8;">15+ Tools</h3>
+      <p style="margin:4px 0 0; color:#94a3b8;">Python, SQL, AWS, Docker, Tableau</p>
+    </td>
+    <td align="center" style="background: #0f172a; border-radius: 18px; border: 1px solid rgba(148,163,184,0.12);">
+      <h3 style="margin:0; color:#38bdf8;">Live Portfolio</h3>
+      <p style="margin:4px 0 0; color:#94a3b8;"><a href="https://chandan-mahato-portfolio-website.vercel.app/" style="color:#7dd3fc; text-decoration:none;">Visit</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 👋 About Me
+
+A motivated Data Enthusiast with expertise in **AI/ML**, **predictive analytics**, and **production-focused data systems**. I enjoy building smart, scalable solutions that deliver real impact.
+
+- 🔭 Currently building: **machine learning models, analytics dashboards, and automated data workflows**
+- 🌱 Currently learning: **Deep Learning, MLOps, and production-ready AI systems**
+- 💬 Ask me about: **Python, SQL, Data Science, Machine Learning**
+- 📫 Reach me at: **itssinghchandan10@gmail.com**
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%" cellpadding="16" cellspacing="0" style="border-collapse: separate; border-spacing: 16px;">
+  <tr>
+    <td width="50%" valign="top" style="background:#0f172a; border-radius:20px; border:1px solid rgba(148,163,184,0.14);">
+      <h3>Fraud Detection System</h3>
+      <a href="https://github.com/Cngh10/Fraud-Detection-Project"><img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2Ffraud-detection.jpeg&w=828&q=75" width="100%" alt="Fraud Detection System" style="border-radius:16px;" /></a>
+      <p><strong>Tech:</strong> Python · TensorFlow · Scikit-learn · Flask · REST API</p>
+      <p><strong>Impact:</strong> Real-time transaction fraud detection.</p>
+      <p><a href="https://github.com/Cngh10/Fraud-Detection-Project">Code</a> · <a href="https://chandan-mahato-portfolio-website.vercel.app/projects/fraud-detection-system">Details</a></p>
+    </td>
+    <td width="50%" valign="top" style="background:#0f172a; border-radius:20px; border:1px solid rgba(148,163,184,0.14);">
+      <h3>Employee Churn Prediction</h3>
+      <a href="https://github.com/Cngh10/Employee-churn-prediction-"><img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2Femployee-churn.png&w=828&q=75" width="100%" alt="Employee Churn Prediction" style="border-radius:16px;" /></a>
+      <p><strong>Tech:</strong> Python · Pandas · Scikit-learn · XGBoost</p>
+      <p><strong>Impact:</strong> Predictive retention insights for HR teams.</p>
+      <p><a href="https://github.com/Cngh10/Employee-churn-prediction-">Code</a> · <a href="https://chandan-mahato-portfolio-website.vercel.app/projects/employee-churn-prediction">Details</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="background:#0f172a; border-radius:20px; border:1px solid rgba(148,163,184,0.14);">
+      <h3>Solar Energy Prediction</h3>
+      <a href="https://github.com/Cngh10/Predicting-Solar-Energy-Production"><img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2Fsolar.jpg.webp&w=828&q=75" width="100%" alt="Solar Energy Prediction" style="border-radius:16px;" /></a>
+      <p><strong>Tech:</strong> Python · XGBoost · Renewable Energy Analytics</p>
+      <p><strong>Impact:</strong> Forecasts solar output from geographic features.</p>
+      <p><a href="https://github.com/Cngh10/Predicting-Solar-Energy-Production">Code</a> · <a href="https://chandan-mahato-portfolio-website.vercel.app/projects/solar-energy-prediction">Details</a></p>
+    </td>
+    <td width="50%" valign="top" style="background:#0f172a; border-radius:20px; border:1px solid rgba(148,163,184,0.14);">
+      <h3>Library Database Management</h3>
+      <a href="https://github.com/Cngh10/Library-Database-Management-System"><img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2Flibrary-system.jpg&w=828&q=75" width="100%" alt="Library Database Management System" style="border-radius:16px;" /></a>
+      <p><strong>Tech:</strong> HTML · CSS · JavaScript · PHP · MySQL</p>
+      <p><strong>Impact:</strong> A complete system for library resource management.</p>
+      <p><a href="https://github.com/Cngh10/Library-Database-Management-System">Code</a> · <a href="https://chandan-mahato-portfolio-website.vercel.app/projects/library-management-system">Details</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/SQL-0479C8?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cngh10&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cngh10&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to data science and machine learning collaborations.
+
+- **Email:** itssinghchandan10@gmail.com
+- **LinkedIn:** [Chandan Mahato](https://linkedin.com/in/chandan-mahato-6a484b279)
+- **Portfolio:** [chandan-mahato-portfolio-website.vercel.app](https://chandan-mahato-portfolio-website.vercel.app/)
+
