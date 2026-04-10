@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?color=0066cc&size=40&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Chandan+Mahato;DATA+ENTHUSIAST+%7C+AI+%26+ML+DEVELOPER;PASSIONATE+ABOUT+SOLVING+REAL-WORLD+PROBLEMS;TURNING+DATA+INTO+INSIGHTS+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
@@ -61,56 +61,6 @@
   </a>
 </div>
 
-# 🛠️ Tech Stack
-
-<div style="background: linear-gradient(135deg, #f8fbff, #e6f3ff); padding: 25px; border-radius: 15px; border: 2px solid #0066cc; margin: 20px 0;">
-  <div align="center">
-    <h3 style="color: #0066cc; font-size: 1.5rem; margin-bottom: 15px;">🚀 Programming Languages</h3>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  </div>
-
-  <div align="center">
-    <h3 style="color: #0066cc; font-size: 1.5rem; margin: 20px 0 15px 0;">🤖 Data Science & AI/ML</h3>
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/NLP-%23000000.svg?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP"/>
-  </div>
-
-  <div align="center">
-    <h3 style="color: #0066cc; font-size: 1.5rem; margin: 20px 0 15px 0;">📊 Data Visualization & BI</h3>
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  </div>
-
-  <div align="center">
-    <h3 style="color: #0066cc; font-size: 1.5rem; margin: 20px 0 15px 0;">☁️ Cloud & DevOps</h3>
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </div>
-
-  <div align="center">
-    <h3 style="color: #0066cc; font-size: 1.5rem; margin: 20px 0 15px 0;">⚡ Data Engineering</h3>
-    <img src="https://img.shields.io/badge/Hadoop-%23000000.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop"/>
-    <img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
-    <img src="https://img.shields.io/badge/ETL-%23000000.svg?style=for-the-badge&logo=data-integration&logoColor=white" alt="ETL"/>
-  </div>
-
-  <div align="center">
-    <h3 style="color: #0066cc; font-size: 1.5rem; margin: 20px 0 15px 0;">🛠️ Development Tools</h3>
-    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  </div>
-</div>
 
 
 
@@ -228,7 +178,7 @@
   <img src="https://komarev.com/ghpvc/?username=Cngh10&style=flat-square&color=0066cc" alt="Profile Views"/>
   <br/>
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-Let's%20connect!-0066cc?style=for-the-badge&logo=github" alt="Thanks for visiting!"/>
-</div>
+</div> -->
 
 <!-- 🔥 HERO SECTION -->
 <div align="center">
@@ -357,7 +307,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,mysql,aws,docker" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,mysql,aws,docker,Power Bi, Tableau" />
 
 </div>
 
