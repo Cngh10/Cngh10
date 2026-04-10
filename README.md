@@ -41,6 +41,54 @@
 
 ---
 
+## 👋 About Me
+### 🎯 What I Do
+
+<table>
+<tr>
+<td>🔭</td>
+<td><b>Currently Working On:</b> Data Science and Machine Learning projects</td>
+</tr>
+
+<tr>
+<td>🤝</td>
+<td><b>Looking For:</b> Data Scientist, ML Engineer, and AI Developer roles</td>
+</tr>
+
+<tr>
+<td>🌱</td>
+<td><b>Currently Learning:</b> Advanced Machine Learning and Deep Learning</td>
+</tr>
+
+<tr>
+<td>💬</td>
+<td><b>Ask Me About:</b> Python, Data Science, Machine Learning, SQL</td>
+</tr>
+
+<tr>
+<td>⚡</td>
+<td><b>Fun Fact:</b> I love turning data into insights!</td>
+</tr>
+
+<tr>
+<td>💻</td>
+<td><b>All Projects:</b> Available on GitHub</td>
+</tr>
+
+<tr>
+<td>📫</td>
+<td><b>Contact:</b> itssinghchandan10@gmail.com</td>
+</tr>
+
+<tr>
+<td>🌐</td>
+<td><b>Portfolio:</b> <a href="https://chandan-mahato-portfolio-website.vercel.app/">Visit Here</a></td>
+</tr>
+
+</table>
+
+---
+
 <!-- 🔗 SOCIALS -->
 <div align="center" style="margin:25px 0;">
   <a href="https://github.com/Cngh10">
@@ -85,24 +133,6 @@
 
 </tr>
 </table>
-
----
-
-## 👋 About Me
-### 🎯 What I Do
-
-<div align="center">
-
-<table>
-<tr><td>🔭</td><td><b>Currently Working On:</b> Data Science & ML projects</td></tr>
-<tr><td>🤝</td><td><b>Looking For:</b> Data Scientist / ML Engineer roles</td></tr>
-<tr><td>🌱</td><td><b>Learning:</b> Deep Learning & MLOps</td></tr>
-<tr><td>💬</td><td><b>Ask Me:</b> Python, ML, SQL</td></tr>
-<tr><td>⚡</td><td><b>Fun Fact:</b> Turning data into insights 🚀</td></tr>
-<tr><td>📫</td><td><b>Email:</b> itssinghchandan10@gmail.com</td></tr>
-</table>
-
-</div>
 
 ---
 
