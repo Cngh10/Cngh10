@@ -236,7 +236,7 @@
 </div>
 
 <div align="center" style="margin-top: 24px; width:100%;">
-  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="Chandan Mahato" style="width:100%; max-width:1000px; border-radius: 24px; border: 4px solid #06b6d4; box-shadow: 0 20px 50px rgba(0,0,0,0.25);" />
+  <img src="https://www.google.com/imgres?q=tech%20image%20eat%20code%20sleep%20code%20eat&imgurl=https%3A%2F%2F4kwallpapers.com%2Fimages%2Fwallpapers%2Feat-sleep-code-repeat-black-background-programmer-quotes-3840x2160-5947.png&imgrefurl=https%3A%2F%2F4kwallpapers.com%2Ftechnology%2Feat-sleep-code-repeat-black-background-programmer-quotes-5947.html&docid=Rz4nfZ8ic7WN1M&tbnid=1cW9wNSOZ-raYM&vet=12ahUKEwi6uqyrv-OTAxUWT2wGHWgrPNAQnPAOegQIFxAB..i&w=3840&h=2160&hcb=2&ved=2ahUKEwi6uqyrv-OTAxUWT2wGHWgrPNAQnPAOegQIFxAB" alt="Chandan Mahato" style="width:100%; max-width:1000px; border-radius: 24px; border: 4px solid #06b6d4; box-shadow: 0 20px 50px rgba(0,0,0,0.25);" />
 </div>
 
 <div align="center" style="margin-top: 18px;">
@@ -366,5 +366,7 @@ I’m open to collaborating on data science, machine learning, and analytics pro
 - **Email:** itssinghchandan10@gmail.com
 - **LinkedIn:** [Chandan Mahato](https://linkedin.com/in/chandan-mahato-6a484b279)
 - **Portfolio:** [chandan-mahato-portfolio-website.vercel.app](https://chandan-mahato-portfolio-website.vercel.app/)
+
+
 
 
