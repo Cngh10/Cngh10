@@ -243,9 +243,30 @@
      box-shadow: 0 20px 50px rgba(0,0,0,0.25);" />
 </div>
 
-<div align="center" style="margin-top: 18px;">
-  <h1>Chandan Mahato</h1>
-  <p style="color:#94a3b8; font-size:1.05rem; max-width:720px;">Data Enthusiast specializing in AI/ML, predictive analytics, and production-ready data solutions. I build intelligent systems that empower teams to make faster, smarter decisions.</p>
+<div align="center" style="margin-top: 25px;">
+  <div style="
+    background: rgba(15, 23, 42, 0.6);
+    padding: 20px 30px;
+    border-radius: 16px;
+    max-width: 800px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+    border: 1px solid rgba(148,163,184,0.2);">
+    
+    <p style="
+      color:#e2e8f0;
+      font-size:1.5rem;
+      font-weight:500;
+      line-height:1.6;">
+      Data Enthusiast specializing in 
+      <span style="color:#22d3ee; font-weight:600;">AI/ML</span>, 
+      predictive analytics, and production-ready data solutions.  
+      <br/>
+      <span style="font-weight:700; color:#38bdf8;">
+        I build intelligent systems that empower teams to make faster, smarter decisions.
+      </span>
+    </p>
+    
+  </div>
 </div>
 
 <div align="center" style="margin:24px 0;">
