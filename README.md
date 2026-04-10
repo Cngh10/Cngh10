@@ -236,7 +236,11 @@
 </div>
 
 <div align="center" style="margin-top: 24px; width:100%;">
-  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/5947.png" alt="Chandan Mahato" style="width:100%; max-width:1000px; border-radius: 24px; border: 4px solid #06b6d4; box-shadow: 0 20px 50px rgba(0,0,0,0.25);" />
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/5947.png"
+     alt="Chandan Mahato"
+     style="width:100%; max-width:1000px; height:300px; object-fit:cover;
+     border-radius: 24px; border: 4px solid #06b6d4;
+     box-shadow: 0 20px 50px rgba(0,0,0,0.25);" />
 </div>
 
 <div align="center" style="margin-top: 18px;">
