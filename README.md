@@ -235,9 +235,9 @@
   <img src="https://readme-typing-svg.vercel.app/?color=06b6d4&size=45&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Chandan+Mahato;Data+Enthusiast+%7C+AI+%26+ML+Developer;Building+Data-Driven+Solutions" alt="Typing SVG" />
 </div>
 
-<div align="center" style="margin-top: 24px;">
-  <img src="https://chandan-mahato-portfolio-website.vercel.app/_next/image?url=%2Fchandan-profile.jpeg&w=640&q=75" width="220" style="border-radius: 50%; border: 4px solid #06b6d4; box-shadow: 0 20px 50px rgba(0,0,0,0.25);" alt="Chandan Mahato" />
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="220" style="border-radius: 50%; border: 4px solid #06b6d4; box-shadow: 0 20px 50px rgba(0,0,0,0.25);" alt="Chandan Mahato" />
+</p>
 
 <div align="center" style="margin-top: 18px;">
   <h1>Chandan Mahato</h1>
@@ -366,6 +366,4 @@ I’m open to collaborating on data science, machine learning, and analytics pro
 - **Email:** itssinghchandan10@gmail.com
 - **LinkedIn:** [Chandan Mahato](https://linkedin.com/in/chandan-mahato-6a484b279)
 - **Portfolio:** [chandan-mahato-portfolio-website.vercel.app](https://chandan-mahato-portfolio-website.vercel.app/)
-
-
 
