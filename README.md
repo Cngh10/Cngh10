@@ -1,9 +1,8 @@
-<!-- <div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.vercel.app/?color=0066cc&size=40&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Chandan+Mahato;DATA+ENTHUSIAST+%7C+AI+%26+ML+DEVELOPER;PASSIONATE+ABOUT+SOLVING+REAL-WORLD+PROBLEMS;TURNING+DATA+INTO+INSIGHTS+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
-
 ## 🚀 About Me
 
 ### 🎯 What I Do
@@ -229,7 +228,7 @@
   <img src="https://komarev.com/ghpvc/?username=Cngh10&style=flat-square&color=0066cc" alt="Profile Views"/>
   <br/>
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-Let's%20connect!-0066cc?style=for-the-badge&logo=github" alt="Thanks for visiting!"/>
-</div>  -->
+</div>
 
 <!-- 🔥 HERO SECTION -->
 <div align="center">
