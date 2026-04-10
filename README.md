@@ -255,37 +255,21 @@
 </div>
 
 ---
+<div align="center">
 
-<!-- 💎 GLASS CARD INTRO -->
-<div align="center" style="margin-top:25px;">
-  <div style="
-    background: linear-gradient(145deg, rgba(15,23,42,0.7), rgba(30,41,59,0.6));
-    padding:25px 35px;
-    border-radius:18px;
-    max-width:850px;
-    border:1px solid rgba(148,163,184,0.2);
-    backdrop-filter: blur(10px);
-    box-shadow:0 10px 40px rgba(0,0,0,0.35);">
+<h2>
+  🚀 Data Enthusiast | <span style="color:#22d3ee;">AI/ML Developer</span>
+</h2>
 
-    <p style="
-      color:#e2e8f0;
-      font-size:1.6rem;
-      line-height:1.6;
-      font-weight:500;">
+<p>
+  Building <b>predictive systems</b>, <b>data pipelines</b>, and 
+  <b>real-world AI solutions</b>
+</p>
 
-      Data Enthusiast specializing in 
-      <span style="color:#22d3ee; font-weight:700;">AI/ML</span>, 
-      predictive analytics, and scalable data systems.
+<p>
+  <b style="color:#38bdf8;">Turning data into decisions that matter.</b>
+</p>
 
-      <br/><br/>
-
-      <span style="font-size:1.3rem; color:#38bdf8; font-weight:700;">
-        I build intelligent systems that drive faster and smarter decisions.
-      </span>
-
-    </p>
-
-  </div>
 </div>
 
 ---
