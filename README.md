@@ -1,7 +1,7 @@
 <!-- 🔥 HERO SECTION -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.vercel.app/?color=22d3ee&size=42&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Chandan+Mahato;AI+%26+ML+Engineer;Building+Data-Driven+Systems" />
+  <img src="https://readme-typing-svg.vercel.app/?color=22d3ee&size=42&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Chandan+Mahato;AI+%26+ML+Engineer+|+Developer;Building+Data-Driven+Systems" />
 
   <br/>
 
@@ -25,7 +25,7 @@
 <div align="center">
 
 <h2>
-  🚀 Data Enthusiast| Developer | <span style="color:#22d3ee;">AI/ML Engineer | Developer</span>
+  🚀 Data Enthusiast| Developer | <span style="color:#22d3ee;">AI/ML Engineer</span>
 </h2>
 
 <p>
