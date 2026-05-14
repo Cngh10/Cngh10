@@ -25,7 +25,7 @@
 <div align="center">
 
 <h2>
-  🚀 Data Enthusiast | <span style="color:#22d3ee;">AI/ML Developer</span>
+  🚀 Data Enthusiast| Developer | <span style="color:#22d3ee;">AI/ML Engineer | Developer</span>
 </h2>
 
 <p>
@@ -52,7 +52,7 @@
 
 <tr>
 <td>🤝</td>
-<td><b>Looking For:</b> Data Scientist, ML Engineer, and AI Developer roles</td>
+<td><b>Looking For:</b> Data Scientist, ML Engineer, and Developer roles</td>
 </tr>
 
 <tr>
